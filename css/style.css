@@ -579,7 +579,7 @@ footer .wrap .top .left > ul > li{
     height: 40px;
     margin: 0 10px;
 }
-footer .wrap .top .left > ul > li > a{
+footer .wrap .top .left > ul > li > p{
     color: #fafafa;
     line-height: 40px;
     font-weight: bold;
